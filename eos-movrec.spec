@@ -4,7 +4,7 @@ Version:	0.3.1
 Release:	1
 License:	GPL v2+
 Group:		X11/Applications/Graphics
-Source0:	http://dl.sourceforge.net/eos-movrec/%{name}-%{version}_beta-src.tar.bz2
+Source0:	http://downloads.sourceforge.net/eos-movrec/%{name}-%{version}_beta-src.tar.bz2
 # Source0-md5:	b9652d602e7d67bfac7bd606940f3e90
 URL:		http://valexvir.narod.ru/
 BuildRequires:	QtCore-devel
