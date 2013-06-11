@@ -1,7 +1,7 @@
 Summary:	Canon EOS Camera Movie Record
 Name:		eos-movrec
 Version:	0.3.1
-Release:	1
+Release:	2
 License:	GPL v2+
 Group:		X11/Applications/Graphics
 Source0:	http://downloads.sourceforge.net/eos-movrec/%{name}-%{version}_beta-src.tar.bz2
